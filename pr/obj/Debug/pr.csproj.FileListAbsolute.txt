@@ -1,0 +1,6 @@
+c:\users\pc4\documents\visual studio 2015\Projects\pr\pr\bin\Debug\pr.exe.config
+c:\users\pc4\documents\visual studio 2015\Projects\pr\pr\bin\Debug\pr.exe
+c:\users\pc4\documents\visual studio 2015\Projects\pr\pr\bin\Debug\pr.pdb
+c:\users\pc4\documents\visual studio 2015\Projects\pr\pr\obj\Debug\pr.csprojResolveAssemblyReference.cache
+c:\users\pc4\documents\visual studio 2015\Projects\pr\pr\obj\Debug\pr.exe
+c:\users\pc4\documents\visual studio 2015\Projects\pr\pr\obj\Debug\pr.pdb
